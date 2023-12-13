@@ -2,8 +2,7 @@
 ## Feuille de route des analystes de données
 
 ### 1.DEFINE THE PROBLEME / DEFINIR LE PROBLEME
-
-  
+  La rédiistrubution des salaires par type jobs.  
 
 ### 2.COLLECT THE DATA / COLLECTE DES DONNEES
 
